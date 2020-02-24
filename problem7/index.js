@@ -1,4 +1,4 @@
-// Big O time complexity O(n)
+// Big O time complexity log(n)
 function search(arr, val) {
     let min = 0;
     let max = arr.length - 1;
